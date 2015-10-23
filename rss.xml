@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Victorious Soviet Scholar]]></title>
         <description><![CDATA[Victorious Soviet Scholar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/victorious-soviet-scholar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 22:58:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 23:30:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/victorious-soviet-scholar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rubble and Ash]]></title>
-            <description><![CDATA[<article><h1>Rubble and Ash</h1><p>where the adventure begins</p></article>]]></description>
-            <link>undefinedrubble-and-ash/index.html</link>
+            <description><![CDATA[<article><h1>Rubble and Ash</h1><p>where the adventure begins</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e314a7-81e8-4426-826d-c15228df7f6c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/victorious-soviet-scholar/rubble-and-ash/index.html</link>
             <guid isPermaLink="false">c9b0b4bb-80e8-4f29-a3e3-978fbb7a13a7</guid>
-            <pubDate>Fri, 23 Oct 2015 22:58:21 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2015 23:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
