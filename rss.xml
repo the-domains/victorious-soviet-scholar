@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Victorious Soviet Scholar]]></title>
+        <description><![CDATA[Victorious Soviet Scholar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Oct 2015 22:58:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rubble and Ash]]></title>
+            <description><![CDATA[<article><h1>Rubble and Ash</h1><p>where the adventure begins</p></article>]]></description>
+            <link>undefinedrubble-and-ash/index.html</link>
+            <guid isPermaLink="false">c9b0b4bb-80e8-4f29-a3e3-978fbb7a13a7</guid>
+            <pubDate>Fri, 23 Oct 2015 22:58:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
