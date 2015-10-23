@@ -1,0 +1,23 @@
+name: Victorious Soviet Scholar
+favicon: null
+layout_spectrum: 0.7452774033881724
+typography_spectrum: 0.9280530840624124
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.618356503546238
+  lightness: 0.04982147226110101
+  saturation: 0.695838482119143
+  rhythmicContrast: 0.020973490783944726
+purpose: []
