@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: where the adventure begins
-datePublished: '2015-10-23T23:30:00.527Z'
-dateModified: '2015-10-23T23:29:23.828Z'
+description: No ego left to flex.
+datePublished: '2016-03-26T15:13:57.875Z'
+dateModified: '2016-03-26T15:13:57.440Z'
 title: Rubble and Ash
 sourcePath: _posts/2015-10-23-rubble-and-ash.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,9 +22,9 @@ url: rubble-and-ash/index.html
 _type: Article
 
 ---
-I have known many who are going through true trials right now. This is not a comparison story. It's purely honest, open, and personal expression.
+No ego left to flex.
 
-I parted ways with my last church two months ago on great personal terms but failed professional ones. I have not worked nor have anything lined up. Two weeks after moving back home, someone broke into my family's house and stole my laptop. Every day I'm trying to figure out what to do for that day and the day after that and the day after that and the week after that and the month after that. 
+I parted ways with my last church on great personal terms but failed professional ones. I have not worked nor have anything lined up. Two weeks after moving back home, someone broke into my family's house and stole my laptop. Every day I'm trying to figure out what to do for that day and the day after that and the day after that and the week after that and the month after that. 
 
 In my heart, it's the lowest I've personally been, both spiritually and mentally. Heck, even physically. I'm an absolute mess.
 
